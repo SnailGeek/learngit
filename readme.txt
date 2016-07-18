@@ -16,3 +16,6 @@ Git tracks changes.
 Git is a distributed version control system
 
 Creating a new branch is quick.
+
+Create a new branch is quick AND simple.
+
