@@ -25,3 +25,4 @@ Create a new branch is quick AND simple.
 >>>>>>> feature1
 
 Hello World.
+Git is A free software distributed under the GPL.
